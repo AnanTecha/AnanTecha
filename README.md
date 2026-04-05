@@ -5,11 +5,11 @@ My name is Anan Techasintawee from Bangkok, Thailand | AI Developer (Training) �
 
 Former civil servant now exploring the frontiers of Computer Science. Currently study in Super AI Engineer Season 6 lvl 1, focusing on making data more accessible through AI.
 
-🌱currently learning: Advancing my knowledge in Artificial Intelligence and Machine Learning.
+🌱Currently learning: Advancing my knowledge in Artificial Intelligence and Machine Learning.
 
 🤔Passionate about: Python automation, Image Processing, and high-performance computing.
 
-😄When I'm not coding: You'll find me training in the gym, practice a piano, or catching up on Jujutsu Kaisen.
+😄When I'm not coding: You'll find me training in the gym, practice a piano and be parent of two fluffy cats 🐾
 
 ⚡Let's build something impactful together!⚡
 
