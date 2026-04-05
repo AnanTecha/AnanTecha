@@ -7,7 +7,7 @@ Former civil servant now exploring the frontiers of Computer Science. Currently 
 
 🌱currently learning: Advancing my knowledge in Artificial Intelligence and Machine Learning.
 
-🤔Passionate about: NLP, Python automation, and high-performance computing.
+🤔Passionate about: Python automation, Image Processing, and high-performance computing.
 
 😄When I'm not coding: You'll find me training in the gym, practice a piano, or catching up on Jujutsu Kaisen.
 
